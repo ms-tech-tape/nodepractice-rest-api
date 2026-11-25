@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Patel",
+    "email": "aarav@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Diya Shah",
+    "email": "diya@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Mehta",
+    "email": "rohan@example.com"
+  },
+  {
+    "id": 1795508402419,
+    "name": "Rahul Sharma",
+    "email": "rahul@example.com",
+    "age": 22
+  },
+  {
+    "id": 1795512812532,
+    "name": "Priya Shah",
+    "email": "priya@example.com",
+    "age": 21
+  }
+]
